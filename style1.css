@@ -1,0 +1,288 @@
+body{
+    background-color: antiquewhite;
+}
+
+
+header{
+    background-color: antiquewhite;
+    display: flex;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 40px;
+    
+ 
+}
+
+
+
+
+.firstli{
+    display: flex;
+    list-style: none;
+    margin-top: 20px;
+
+}
+
+li{
+    margin-right: 20px;
+    color: saddlebrown;
+    font-weight: 600;
+    padding: 20px;
+}
+
+li:hover{
+    color: red;
+    border-radius: 20px;
+    background-color: cornsilk;
+    
+}
+
+main{
+    display: flex;
+}
+
+.maindiv{
+    background-color: antiquewhite;
+    width: 35%;
+    padding-top: 100px;
+
+   
+}
+
+
+iframe{
+    width: 800px;
+    height: 950px;
+}
+
+.div1{
+    display: flex;
+}
+
+.home1{
+    font-size: 15px;
+    font-weight: 8000px;
+    color: saddlebrown;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+    
+}
+
+.foodcut{
+    font-size: 20px;
+    font-weight: 800px;
+    color: red;
+    margin-left: 35px;
+    margin-top: -5px;
+    padding-right: 20px;
+    height: 30px;   
+}
+
+.slash{
+    color: red;
+    margin-left: 20px;
+}
+
+button{
+    background-color: white;
+    color: saddlebrown;
+    font-size: 20px;
+    font-weight: 800;
+    width: 500px;
+    height: 60px;
+    padding: 0 56px;
+    border-color: tan; 
+    
+}
+
+.foodcut2{
+    text-transform: capitalize;
+    padding-right: 900px;
+    font-size: 30px;
+    font-weight: 800px;
+}
+.img1{
+    width: 600px;
+    height: 400px;
+    padding-right: 200px;
+    display: flex;
+    
+}
+
+.lastdiv{
+    background-color: saddlebrown;
+    width: 100%;
+    height: 400px;
+  
+}
+
+.info5{
+    font-size: 30px;
+    color: white;
+    margin-left: 600px;
+    margin-top: -40px;
+}
+
+
+.lastimg{
+    margin-left: 60px;
+    margin-top: 90px;
+}
+
+.div2{
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    margin-left: 10px;
+    height: 110px;
+    margin-top: 10px;
+    
+}
+
+.map1{
+    color: red;
+    margin-left: 10px;
+    font-weight: 600px;
+}
+
+.place1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 800px;
+    font-family:  sans-serif
+}
+
+.place2{
+    margin-left: 10px;
+}
+
+.div3{
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    margin-left: 10px;
+    height: 110px;
+}
+
+.place3{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 800px;
+    text-transform: capitalize;
+
+}
+
+.place4{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.map3{
+    color: red;
+    margin-left: 10px;
+    font-weight: 600px;
+}
+
+.div4{
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    height: 110px;
+    margin-left: 10px;
+}
+
+.yabaleft{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 800px;
+    text-transform: capitalize;
+
+}
+
+.street{
+    margin-left: 10px;
+}
+
+.map4{
+    color: red;
+    margin-left: 10px;
+    font-weight: 600px;
+
+}
+
+.div5{
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    height: 110px;
+    margin-left: 10px;
+}
+.street1{
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 800px;
+    margin-left: 10px;
+}
+
+.street2{
+    font-size: 15px;
+    font-weight: 400px;
+    margin-left: 10px;
+}
+
+.map5{
+    color: red;
+    margin-left: 10px;
+    font-weight: 600px;
+}
+.div6{
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    height: 110px;
+    
+}
+
+.street3{
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 800px;
+    text-transform: capitalize;
+}
+
+.map6{
+    color: red;
+    margin-left: 10px;
+    font-weight: 800px;
+}
+
+.break-normal{
+    color: white;
+    font-size: 20px;
+    border-bottom: none;
+    text-decoration: none;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.footer1{
+    color: white;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
